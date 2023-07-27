@@ -17,7 +17,7 @@ class MRUCache(BaseCaching):
     Attributes:
         __init__ - method that initializes class instance
         put - method that adds a key/value pair to cache
-        get - method that retrieves a key/value pair from cache 
+        get - method that retrieves a key/value pair from cache
     """
 
     def __init__(self):
